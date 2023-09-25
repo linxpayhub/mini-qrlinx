@@ -67,9 +67,7 @@ Apresente sua solução utilizando o framework de sua preferência, justificando
 
 ## O que NÃO será avaliado
 - Fluxo de cadastro de usuários
-- Frontend (só avaliaremos a [API Restful](https://www.devmedia.com.br/rest-tutorial/28912))
 - Autenticação
-
 
 ## O que será um Diferencial
 - Testes de [integração](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
